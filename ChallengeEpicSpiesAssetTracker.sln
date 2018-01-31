@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChallengeEpicSpiesAssetTracker", "ChallengeEpicSpiesAssetTracker\ChallengeEpicSpiesAssetTracker.csproj", "{DFDC06B9-4943-4A62-A06D-BDE0672EB57B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFDC06B9-4943-4A62-A06D-BDE0672EB57B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFDC06B9-4943-4A62-A06D-BDE0672EB57B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFDC06B9-4943-4A62-A06D-BDE0672EB57B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFDC06B9-4943-4A62-A06D-BDE0672EB57B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0843D3ED-E673-4E84-B2F3-6E0F101F9A9A}
+	EndGlobalSection
+EndGlobal
